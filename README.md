@@ -1,4 +1,4 @@
-# Calculator
+# LinkingGame
 This is a linking game, implemented in my first term of sophomore, as my homework for Data Structure Course. It has a nice look and some interests, including linking part, race against time, provocation from computer and so on.
 
 # Requires
